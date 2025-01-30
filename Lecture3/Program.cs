@@ -35,6 +35,28 @@ namespace FirstProject
 
             Console.WriteLine($"The UK population is {population}");
 
+// ? Default values:
+            Console.WriteLine(default(int)); // 0
+            Console.WriteLine(default(bool)); // False
+            Console.WriteLine(default(string)); // Empty string
+            Console.WriteLine(default(decimal)); // 0
+
+// TODO: Arrays:
+
+            string[] names;
+            names = new string[4];
+
+            names[0] = "Ahmed";
+            names[1] = "Ali";
+            names[2] = "Hamza";
+            names[3] = "Khalid";
+            Console.WriteLine(names[1]);
+
+// TODO: User input:
+            Console.Write("Enter your name: ");
+            string name = Console.ReadLine();
+            // int age = Console.ReadLine();
+            Console.Write("Your name is " + name +  "? \n");
 
         }
     }

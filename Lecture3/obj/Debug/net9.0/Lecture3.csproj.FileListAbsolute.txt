@@ -12,3 +12,4 @@ E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture3\obj\Debug\net9.0\
 E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture3\obj\Debug\net9.0\Lecture3.pdb
 E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture3\obj\Debug\net9.0\Lecture3.genruntimeconfig.cache
 E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture3\obj\Debug\net9.0\ref\Lecture3.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture3\obj\Debug\net9.0\Lecture3.sourcelink.json
