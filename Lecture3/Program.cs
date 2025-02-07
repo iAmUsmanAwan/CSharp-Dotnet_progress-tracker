@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FirstProject
+namespace Lecture3
 {
     class Program
     {
