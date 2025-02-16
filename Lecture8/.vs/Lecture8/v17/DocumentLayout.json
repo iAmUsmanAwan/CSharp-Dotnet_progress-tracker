@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09CFDBD5-C8DD-44D9-BFE4-218710EEF9AD}|Lecture8\\Lecture8.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture8\\lecture8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09CFDBD5-C8DD-44D9-BFE4-218710EEF9AD}|Lecture8\\Lecture8.csproj|solutionrelative:lecture8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09CFDBD5-C8DD-44D9-BFE4-218710EEF9AD}|Lecture8\\Lecture8.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture8\\lecture8\\lecture8_classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CFDBD5-C8DD-44D9-BFE4-218710EEF9AD}|Lecture8\\Lecture8.csproj|solutionrelative:lecture8\\lecture8_classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CFDBD5-C8DD-44D9-BFE4-218710EEF9AD}|Lecture8\\Lecture8.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture8\\lecture8\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CFDBD5-C8DD-44D9-BFE4-218710EEF9AD}|Lecture8\\Lecture8.csproj|solutionrelative:lecture8\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD8612B-B7D7-4E17-AA8B-E2ACFF9524DD}|Lecture8_2\\Lecture8_2.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture8\\lecture8_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD8612B-B7D7-4E17-AA8B-E2ACFF9524DD}|Lecture8_2\\Lecture8_2.csproj|solutionrelative:lecture8_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture8\\Lecture8\\Class1.cs",
+              "RelativeDocumentMoniker": "Lecture8\\Class1.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture8\\Lecture8\\Class1.cs",
+              "RelativeToolTip": "Lecture8\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T04:56:51.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture8\\Lecture8\\Program.cs",
-              "RelativeDocumentMoniker": "Lecture8\\Program.cs",
-              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture8\\Lecture8\\Program.cs",
-              "RelativeToolTip": "Lecture8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture8\\Lecture8_2\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture8_2\\Program.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture8\\Lecture8_2\\Program.cs",
+              "RelativeToolTip": "Lecture8_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T04:41:17.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lecture8_Classes.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture8\\Lecture8\\Lecture8_Classes.cs",
+              "RelativeDocumentMoniker": "Lecture8\\Lecture8_Classes.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture8\\Lecture8\\Lecture8_Classes.cs",
+              "RelativeToolTip": "Lecture8\\Lecture8_Classes.cs",
+              "ViewState": "AgIAAEsAAAAAmpmZmZkrwDoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T00:23:29.13Z",
               "EditorCaption": ""
