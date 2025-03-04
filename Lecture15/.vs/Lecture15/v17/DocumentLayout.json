@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD012B19-350A-48B2-9CBB-EFA06B93EA29}|Lecture15\\Lecture15.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture15\\lecture15\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD012B19-350A-48B2-9CBB-EFA06B93EA29}|Lecture15\\Lecture15.csproj|solutionrelative:lecture15\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD012B19-350A-48B2-9CBB-EFA06B93EA29}|Lecture15\\Lecture15.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture15\\lecture15\\myfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DD012B19-350A-48B2-9CBB-EFA06B93EA29}|Lecture15\\Lecture15.csproj|solutionrelative:lecture15\\myfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD012B19-350A-48B2-9CBB-EFA06B93EA29}|Lecture15\\Lecture15.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture15\\lecture15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD012B19-350A-48B2-9CBB-EFA06B93EA29}|Lecture15\\Lecture15.csproj|solutionrelative:lecture15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "myFile.txt",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture15\\Lecture15\\myFile.txt",
+              "RelativeDocumentMoniker": "Lecture15\\myFile.txt",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture15\\Lecture15\\myFile.txt",
+              "RelativeToolTip": "Lecture15\\myFile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-04T03:46:17.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture15\\Lecture15\\FileHandler.cs",
+              "RelativeDocumentMoniker": "Lecture15\\FileHandler.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture15\\Lecture15\\FileHandler.cs",
+              "RelativeToolTip": "Lecture15\\FileHandler.cs",
+              "ViewState": "AgIAAEgAAAAANDMzMzMpwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:26:57.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture15\\Lecture15\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture15\\Program.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture15\\Lecture15\\Program.cs",
+              "RelativeToolTip": "Lecture15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:24:03.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
