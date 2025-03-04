@@ -36,5 +36,4 @@ If you find this project helpful, please consider giving it a **star ⭐** on Gi
 
 👉 **[Star the repository](https://github.com/iAmUsmanAwan/CSharp-Dotnet_progress-tracker)** to help others discover it!
 
-Happy coding! 🚀
 
