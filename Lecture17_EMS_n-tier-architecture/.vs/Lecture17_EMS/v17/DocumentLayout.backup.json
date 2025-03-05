@@ -11,28 +11,28 @@
       "RelativeMoniker": "D:0:0:{C824FBC3-FB35-4B89-A2DC-D31D1893B5F3}|EMS_ConsoleApplication\\EMS_ConsoleApplication.csproj|solutionrelative:ems_consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5730ECFF-2523-4565-AC41-46941673CEB0}|EMS_BLL\\EMS_BLL.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture17_ems_n-tier-architecture\\ems_bll\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5730ECFF-2523-4565-AC41-46941673CEB0}|EMS_BLL\\EMS_BLL.csproj|solutionrelative:ems_bll\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture17_EMS_n-tier-architecture\\Lecture17_EMS_n-tier-architecture\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lecture17_EMS_n-tier-architecture\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F767F10-0075-44BD-889C-412C2AD9B313}|EMS_DAL\\EMS_DAL.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture17_ems_n-tier-architecture\\ems_dal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F767F10-0075-44BD-889C-412C2AD9B313}|EMS_DAL\\EMS_DAL.csproj|solutionrelative:ems_dal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78ADD3E0-585E-4571-885C-3D65D6D82553}|EMS_View\\EMS_View.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture17_ems_n-tier-architecture\\ems_view\\employeeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78ADD3E0-585E-4571-885C-3D65D6D82553}|EMS_View\\EMS_View.csproj|solutionrelative:ems_view\\employeeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78ADD3E0-585E-4571-885C-3D65D6D82553}|EMS_View\\EMS_View.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture17_ems_n-tier-architecture\\ems_view\\ems_view.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{78ADD3E0-585E-4571-885C-3D65D6D82553}|EMS_View\\EMS_View.csproj|solutionrelative:ems_view\\ems_view.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1030A2A1-0E20-4848-8729-D9388FD13608}|EMS_BO\\EMS_BO.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture17_ems_n-tier-architecture\\ems_bo\\employeebo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1030A2A1-0E20-4848-8729-D9388FD13608}|EMS_BO\\EMS_BO.csproj|solutionrelative:ems_bo\\employeebo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5730ECFF-2523-4565-AC41-46941673CEB0}|EMS_BLL\\EMS_BLL.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture17_ems_n-tier-architecture\\ems_bll\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5730ECFF-2523-4565-AC41-46941673CEB0}|EMS_BLL\\EMS_BLL.csproj|solutionrelative:ems_bll\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture17_EMS_n-tier-architecture\\Lecture17_EMS_n-tier-architecture\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lecture17_EMS_n-tier-architecture\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78ADD3E0-585E-4571-885C-3D65D6D82553}|EMS_View\\EMS_View.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture17_ems_n-tier-architecture\\ems_view\\employeeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ADD3E0-585E-4571-885C-3D65D6D82553}|EMS_View\\EMS_View.csproj|solutionrelative:ems_view\\employeeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1030A2A1-0E20-4848-8729-D9388FD13608}|EMS_BO\\EMS_BO.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture17_ems_n-tier-architecture\\ems_bo\\employeebo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1030A2A1-0E20-4848-8729-D9388FD13608}|EMS_BO\\EMS_BO.csproj|solutionrelative:ems_bo\\employeebo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,14 +52,14 @@
               "RelativeDocumentMoniker": "EMS_ConsoleApplication\\Program.cs",
               "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture17_EMS_n-tier-architecture\\EMS_ConsoleApplication\\Program.cs",
               "RelativeToolTip": "EMS_ConsoleApplication\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAABgZmZmZmYkwBQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T18:14:45.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "EMS_View",
               "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture17_EMS_n-tier-architecture\\EMS_View\\EMS_View.csproj",
               "RelativeDocumentMoniker": "EMS_View\\EMS_View.csproj",
@@ -75,29 +75,29 @@
               "Title": "BaseDAL.cs",
               "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture17_EMS_n-tier-architecture\\EMS_DAL\\BaseDAL.cs",
               "RelativeDocumentMoniker": "EMS_DAL\\BaseDAL.cs",
-              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture17_EMS_n-tier-architecture\\EMS_DAL\\BaseDAL.cs*",
-              "RelativeToolTip": "EMS_DAL\\BaseDAL.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture17_EMS_n-tier-architecture\\EMS_DAL\\BaseDAL.cs",
+              "RelativeToolTip": "EMS_DAL\\BaseDAL.cs",
+              "ViewState": "AgIAAAkAAACIzMzMzMwmwAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T05:53:55.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "EmployeeBLL.cs",
               "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture17_EMS_n-tier-architecture\\EMS_BLL\\EmployeeBLL.cs",
               "RelativeDocumentMoniker": "EMS_BLL\\EmployeeBLL.cs",
               "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture17_EMS_n-tier-architecture\\EMS_BLL\\EmployeeBLL.cs",
               "RelativeToolTip": "EMS_BLL\\EmployeeBLL.cs",
-              "ViewState": "AgIAAAkAAAAAMDMzMzMLwCEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T05:45:43.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EmployeeView.cs",
               "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture17_EMS_n-tier-architecture\\EMS_View\\EmployeeView.cs",
               "RelativeDocumentMoniker": "EMS_View\\EmployeeView.cs",
@@ -105,18 +105,16 @@
               "RelativeToolTip": "EMS_View\\EmployeeView.cs",
               "ViewState": "AgIAABAAAACAZmZmZmYSwBYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:29:13.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:29:13.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture17_EMS_n-tier-architecture\\Lecture17_EMS_n-tier-architecture\\Program.cs",
               "RelativeDocumentMoniker": "Lecture17_EMS_n-tier-architecture\\Program.cs",
               "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture17_EMS_n-tier-architecture\\Lecture17_EMS_n-tier-architecture\\Program.cs",
               "RelativeToolTip": "Lecture17_EMS_n-tier-architecture\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T05:13:18.141Z"
             },
@@ -128,14 +126,14 @@
               "RelativeDocumentMoniker": "EMS_DAL\\EmployeeDAL.cs",
               "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture17_EMS_n-tier-architecture\\EMS_DAL\\EmployeeDAL.cs",
               "RelativeToolTip": "EMS_DAL\\EmployeeDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T05:52:03.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EmployeeBO.cs",
               "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture17_EMS_n-tier-architecture\\EMS_BO\\EmployeeBO.cs",
               "RelativeDocumentMoniker": "EMS_BO\\EmployeeBO.cs",
@@ -143,8 +141,7 @@
               "RelativeToolTip": "EMS_BO\\EmployeeBO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:26:32.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:26:32.964Z"
             }
           ]
         }

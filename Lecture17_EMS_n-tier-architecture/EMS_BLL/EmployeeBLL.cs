@@ -28,9 +28,7 @@ namespace EMS_BLL
             EmployeeDAL dal = new EmployeeDAL();
 
             dal.SaveEmployee(bo);   // passing the bo object to dal object of EmployeeDAL
-            //BaseDAL dal = new EmployeeDAL();
-            //dal.Save( bo.ToString(),"Usman" );   // passing the bo object to dal object of EmployeeDAL
-
+            
         }
     }
 }
