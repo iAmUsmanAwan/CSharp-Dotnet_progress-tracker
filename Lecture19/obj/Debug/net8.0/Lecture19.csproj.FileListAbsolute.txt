@@ -1,0 +1,15 @@
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture19\bin\Debug\net8.0\Lecture19.exe
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture19\bin\Debug\net8.0\Lecture19.deps.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture19\bin\Debug\net8.0\Lecture19.runtimeconfig.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture19\bin\Debug\net8.0\Lecture19.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture19\bin\Debug\net8.0\Lecture19.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture19\obj\Debug\net8.0\Lecture19.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture19\obj\Debug\net8.0\Lecture19.AssemblyInfoInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture19\obj\Debug\net8.0\Lecture19.AssemblyInfo.cs
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture19\obj\Debug\net8.0\Lecture19.csproj.CoreCompileInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture19\obj\Debug\net8.0\Lecture19.sourcelink.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture19\obj\Debug\net8.0\Lecture19.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture19\obj\Debug\net8.0\refint\Lecture19.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture19\obj\Debug\net8.0\Lecture19.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture19\obj\Debug\net8.0\Lecture19.genruntimeconfig.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture19\obj\Debug\net8.0\ref\Lecture19.dll
