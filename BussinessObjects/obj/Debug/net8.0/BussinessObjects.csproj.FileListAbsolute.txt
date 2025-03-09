@@ -1,0 +1,12 @@
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\BussinessObjects\bin\Debug\net8.0\BussinessObjects.deps.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\BussinessObjects\bin\Debug\net8.0\BussinessObjects.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\BussinessObjects\bin\Debug\net8.0\BussinessObjects.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\BussinessObjects\obj\Debug\net8.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\BussinessObjects\obj\Debug\net8.0\BussinessObjects.AssemblyInfoInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\BussinessObjects\obj\Debug\net8.0\BussinessObjects.AssemblyInfo.cs
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\BussinessObjects\obj\Debug\net8.0\BussinessObjects.csproj.CoreCompileInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\BussinessObjects\obj\Debug\net8.0\BussinessObjects.sourcelink.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\BussinessObjects\obj\Debug\net8.0\BussinessObjects.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\BussinessObjects\obj\Debug\net8.0\refint\BussinessObjects.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\BussinessObjects\obj\Debug\net8.0\BussinessObjects.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\BussinessObjects\obj\Debug\net8.0\ref\BussinessObjects.dll

@@ -1,0 +1,16 @@
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lec21_23_ADO\bin\Debug\net8.0\Lec21_23_ADO.deps.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lec21_23_ADO\bin\Debug\net8.0\Lec21_23_ADO.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lec21_23_ADO\bin\Debug\net8.0\Lec21_23_ADO.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lec21_23_ADO\obj\Debug\net8.0\Lec21_23_ADO.csproj.AssemblyReference.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lec21_23_ADO\obj\Debug\net8.0\Lec21_23_ADO.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lec21_23_ADO\obj\Debug\net8.0\Lec21_23_ADO.AssemblyInfoInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lec21_23_ADO\obj\Debug\net8.0\Lec21_23_ADO.AssemblyInfo.cs
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lec21_23_ADO\obj\Debug\net8.0\Lec21_23_ADO.csproj.CoreCompileInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lec21_23_ADO\obj\Debug\net8.0\Lec21_23_ADO.sourcelink.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lec21_23_ADO\obj\Debug\net8.0\Lec21_23_ADO.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lec21_23_ADO\obj\Debug\net8.0\refint\Lec21_23_ADO.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lec21_23_ADO\obj\Debug\net8.0\Lec21_23_ADO.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lec21_23_ADO\obj\Debug\net8.0\ref\Lec21_23_ADO.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lec21_23_ADO\bin\Debug\net8.0\BussinessObjects.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lec21_23_ADO\bin\Debug\net8.0\BussinessObjects.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lec21_23_ADO\obj\Debug\net8.0\Lec21_23.1A54C1A0.Up2Date
