@@ -29,20 +29,51 @@ namespace Lec21_23_ADO
             //LINQ / LAMDA EXP
             //var PersonDataVariable = PersonReader.GetAllPersons();
             List<Person> actualModelPersonDataVariable = PersonReader.GetAllPersons();
-            
-            
-            var PersonStartAsayyy = actualModelPersonDataVariable.Where(x => x.Name.StartsWith("U")).ToList();
-           
-            foreach (var Per in PersonStartAsayyy)
-            {
-                PersonReader.DeletePerson(Per.Id);
-            }
 
 
-            
+            // delete the names starting with U
+
+            //var PersonStartAsayyy = actualModelPersonDataVariable.Where(x => x.Name.StartsWith("U")).ToList();
+
+            //foreach (var Per in PersonStartAsayyy)
+            //{
+            //    PersonReader.DeletePerson(Per.Id);
+            //}
+
+
+
 
             int asuhfash = 19;    // just to stop the debugger from exiting the execution
 
         }
+
+        public static void PerformLogin()
+        {
+            string ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ADO_LEC_21_23;Integrated Security=True;";
+
+            PersonRepository personRepo = new PersonRepository(ConnectionString);
+
+            Console.Write("Enter Name: ");
+            string name = Console.ReadLine();
+
+            Console.Write("Enter Age: ");
+            int age = int.Parse(Console.ReadLine());
+
+            bool isUserValidUnsafe = personRepo.LoginWithSqlInjection(name, age);
+            bool isUserValidSafe = personRepo.LoginWithoutSqlInjectionSqlParameter(name, age);
+
+            Console.WriteLine($"Login with SQL Injection: {(isUserValidUnsafe ? "Success" : "Failed")}");
+            Console.WriteLine($"Login with Parameterized Query: {(isUserValidSafe ? "Success" : "Failed")}");
+
+
+
+
+            int mldka = 132;   // just to stop the debugger from exiting the execution
+
+        }
+
+
+
+
     }
 }

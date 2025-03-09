@@ -125,6 +125,36 @@ namespace Lec21_23_ADO
                 command.ExecuteNonQuery();
             }
         }
+
+        public bool LoginWithSqlInjection(string name, int age)
+        {
+            string query = $"SELECT COUNT(*) FROM dbo.Person WHERE Name = '{name}' AND Age = {age}";
+
+            using (var connection = dbHelper.GetConnection())
+            {
+                SqlCommand command = new SqlCommand(query, connection);
+                connection.Open();
+                int count = (int)command.ExecuteScalar();
+                return count > 0;
+            }
+        }
+
+        public bool LoginWithoutSqlInjectionSqlParameter(string name, int age)
+        {
+            string query = "SELECT COUNT(*) FROM dbo.Person WHERE Name = @Name AND Age = @Age";
+
+            using (var connection = dbHelper.GetConnection())
+            {
+                SqlCommand command = new SqlCommand(query, connection);
+                command.Parameters.AddWithValue("@Name", name);
+                command.Parameters.AddWithValue("@Age", age);
+
+                connection.Open();
+                int count = (int)command.ExecuteScalar();
+                return count > 0;
+            }
+        }
+
     }
 }
 

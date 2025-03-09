@@ -3,7 +3,8 @@
   "WorkspaceRootPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lec17_26_umer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC1F6EC5-FD01-4425-9E42-E09B622E2EB3}|..\\Lec21_23_ADO\\Lec21_23_ADO.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lec21_23_ado\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{248A63E5-489B-48CE-9C5C-32C55608FF79}|Lec17_26_umer.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lec17_26_umer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248A63E5-489B-48CE-9C5C-32C55608FF79}|Lec17_26_umer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC1F6EC5-FD01-4425-9E42-E09B622E2EB3}|..\\Lec21_23_ADO\\Lec21_23_ADO.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lec21_23_ado\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -12,14 +13,13 @@
       "AbsoluteMoniker": "D:0:0:{BC1F6EC5-FD01-4425-9E42-E09B622E2EB3}|..\\Lec21_23_ADO\\Lec21_23_ADO.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lec21_23_ado\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{248A63E5-489B-48CE-9C5C-32C55608FF79}|Lec17_26_umer.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lec17_26_umer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{248A63E5-489B-48CE-9C5C-32C55608FF79}|Lec17_26_umer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97B91CEA-5E6A-479D-9093-7EB92F8DB077}|..\\BussinessObjects\\BussinessObjects.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\bussinessobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC1F6EC5-FD01-4425-9E42-E09B622E2EB3}|..\\Lec21_23_ADO\\Lec21_23_ADO.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lec21_23_ado\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ADO_LEC_21_23/True/SqlTable/dbo.Person.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B91CEA-5E6A-479D-9093-7EB92F8DB077}|..\\BussinessObjects\\BussinessObjects.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\bussinessobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,11 +29,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "dbo.Person.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ADO_LEC_21_23/True/SqlTable/dbo.Person.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ADO_LEC_21_23/True/SqlTable/dbo.Person.sql",
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PersonRepository.cs",
               "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lec21_23_ADO\\PersonRepository.cs",
               "RelativeDocumentMoniker": "..\\Lec21_23_ADO\\PersonRepository.cs",
               "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lec21_23_ADO\\PersonRepository.cs",
               "RelativeToolTip": "..\\Lec21_23_ADO\\PersonRepository.cs",
-              "ViewState": "AgIAAGAAAADQzMzMzMwrwHAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAlwJsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T03:31:06.054Z",
               "EditorCaption": ""
@@ -61,7 +61,7 @@
               "RelativeDocumentMoniker": "..\\Lec21_23_ADO\\DatabaseHelper.cs",
               "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lec21_23_ADO\\DatabaseHelper.cs",
               "RelativeToolTip": "..\\Lec21_23_ADO\\DatabaseHelper.cs",
-              "ViewState": "AgIAAAwAAAB4AQAAAAAQwBUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwBAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T03:23:51.82Z",
               "EditorCaption": ""
@@ -74,14 +74,14 @@
               "RelativeDocumentMoniker": "..\\Lec21_23_ADO\\Class1.cs",
               "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lec21_23_ADO\\Class1.cs",
               "RelativeToolTip": "..\\Lec21_23_ADO\\Class1.cs",
-              "ViewState": "AgIAABYAAABQ+/////8TwB8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwEYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T02:48:10.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Person.cs",
               "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\BussinessObjects\\Person.cs",
               "RelativeDocumentMoniker": "..\\BussinessObjects\\Person.cs",
@@ -89,18 +89,17 @@
               "RelativeToolTip": "..\\BussinessObjects\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T03:22:54.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T03:22:54.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lec17_26_umer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lec17_26_umer\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAABAZmZmZmYkwAsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAABAZmZmZmYkwA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T02:49:18.109Z",
               "EditorCaption": ""
