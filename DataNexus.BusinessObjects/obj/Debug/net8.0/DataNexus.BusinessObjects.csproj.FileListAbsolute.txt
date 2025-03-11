@@ -1,0 +1,12 @@
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.BusinessObjects\bin\Debug\net8.0\DataNexus.BusinessObjects.deps.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.BusinessObjects\bin\Debug\net8.0\DataNexus.BusinessObjects.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.BusinessObjects\bin\Debug\net8.0\DataNexus.BusinessObjects.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.BusinessObjects\obj\Debug\net8.0\DataNexus.BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.BusinessObjects\obj\Debug\net8.0\DataNexus.BusinessObjects.AssemblyInfoInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.BusinessObjects\obj\Debug\net8.0\DataNexus.BusinessObjects.AssemblyInfo.cs
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.BusinessObjects\obj\Debug\net8.0\DataNexus.BusinessObjects.csproj.CoreCompileInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.BusinessObjects\obj\Debug\net8.0\DataNexus.BusinessObjects.sourcelink.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.BusinessObjects\obj\Debug\net8.0\DataNexus.BusinessObjects.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.BusinessObjects\obj\Debug\net8.0\refint\DataNexus.BusinessObjects.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.BusinessObjects\obj\Debug\net8.0\DataNexus.BusinessObjects.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.BusinessObjects\obj\Debug\net8.0\ref\DataNexus.BusinessObjects.dll

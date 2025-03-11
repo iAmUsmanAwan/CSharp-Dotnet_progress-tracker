@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AADA00-2FD5-44E8-8040-B5A527E9DD7C}|DataNexus.App.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9AADA00-2FD5-44E8-8040-B5A527E9DD7C}|DataNexus.App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD9F37A-CACF-4ECF-B1D2-FEC522D0B503}|..\\DataNexus.PresentationLayer\\DataNexus.PresentationLayer.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.presentationlayer\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E21767-D707-4AE5-BF20-C08CA3BF2F5F}|..\\DataNexus.BusinessLogicLayer\\DataNexus.BusinessLogicLayer.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.businesslogiclayer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5638DE7C-6AFF-4B28-B998-31A6EABDF21F}|..\\DataNexus.DataAccessLayer\\DataNexus.DataAccessLayer.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.dataaccesslayer\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E21767-D707-4AE5-BF20-C08CA3BF2F5F}|..\\DataNexus.BusinessLogicLayer\\DataNexus.BusinessLogicLayer.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.businesslogiclayer\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E21767-D707-4AE5-BF20-C08CA3BF2F5F}|..\\DataNexus.BusinessLogicLayer\\DataNexus.BusinessLogicLayer.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.businesslogiclayer\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D717FF17-1EA0-432B-B419-71B190DFFB39}|..\\DataNexus.BusinessObjects\\DataNexus.BusinessObjects.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.businessobjects\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D717FF17-1EA0-432B-B419-71B190DFFB39}|..\\DataNexus.BusinessObjects\\DataNexus.BusinessObjects.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.businessobjects\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D717FF17-1EA0-432B-B419-71B190DFFB39}|..\\DataNexus.BusinessObjects\\DataNexus.BusinessObjects.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.businessobjects\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D717FF17-1EA0-432B-B419-71B190DFFB39}|..\\DataNexus.BusinessObjects\\DataNexus.BusinessObjects.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.businessobjects\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D717FF17-1EA0-432B-B419-71B190DFFB39}|..\\DataNexus.BusinessObjects\\DataNexus.BusinessObjects.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D717FF17-1EA0-432B-B419-71B190DFFB39}|..\\DataNexus.BusinessObjects\\DataNexus.BusinessObjects.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.businessobjects\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5638DE7C-6AFF-4B28-B998-31A6EABDF21F}|..\\DataNexus.DataAccessLayer\\DataNexus.DataAccessLayer.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.dataaccesslayer\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5638DE7C-6AFF-4B28-B998-31A6EABDF21F}|..\\DataNexus.DataAccessLayer\\DataNexus.DataAccessLayer.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.dataaccesslayer\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5638DE7C-6AFF-4B28-B998-31A6EABDF21F}|..\\DataNexus.DataAccessLayer\\DataNexus.DataAccessLayer.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.dataaccesslayer\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5638DE7C-6AFF-4B28-B998-31A6EABDF21F}|..\\DataNexus.DataAccessLayer\\DataNexus.DataAccessLayer.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.dataaccesslayer\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E21767-D707-4AE5-BF20-C08CA3BF2F5F}|..\\DataNexus.BusinessLogicLayer\\DataNexus.BusinessLogicLayer.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.businesslogiclayer\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5638DE7C-6AFF-4B28-B998-31A6EABDF21F}|..\\DataNexus.DataAccessLayer\\DataNexus.DataAccessLayer.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.dataaccesslayer\\datanexus.dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E21767-D707-4AE5-BF20-C08CA3BF2F5F}|..\\DataNexus.BusinessLogicLayer\\DataNexus.BusinessLogicLayer.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\datanexus.businesslogiclayer\\datanexus.businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.DataAccessLayer\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataNexus.DataAccessLayer\\CustomerRepository.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.DataAccessLayer\\CustomerRepository.cs",
+              "RelativeToolTip": "..\\DataNexus.DataAccessLayer\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:36:30.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessLogicLayer\\CustomerService.cs",
+              "RelativeDocumentMoniker": "..\\DataNexus.BusinessLogicLayer\\CustomerService.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessLogicLayer\\CustomerService.cs",
+              "RelativeToolTip": "..\\DataNexus.BusinessLogicLayer\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:33:03.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerUI.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.PresentationLayer\\CustomerUI.cs",
+              "RelativeDocumentMoniker": "..\\DataNexus.PresentationLayer\\CustomerUI.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.PresentationLayer\\CustomerUI.cs",
+              "RelativeToolTip": "..\\DataNexus.PresentationLayer\\CustomerUI.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAzwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:50:15.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:16:57.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessLogicLayer\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\DataNexus.BusinessLogicLayer\\StudentService.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessLogicLayer\\StudentService.cs",
+              "RelativeToolTip": "..\\DataNexus.BusinessLogicLayer\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:37:20.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessLogicLayer\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\DataNexus.BusinessLogicLayer\\OrderService.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessLogicLayer\\OrderService.cs",
+              "RelativeToolTip": "..\\DataNexus.BusinessLogicLayer\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:37:22.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessObjects\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "..\\DataNexus.BusinessObjects\\StudentCourse.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessObjects\\StudentCourse.cs",
+              "RelativeToolTip": "..\\DataNexus.BusinessObjects\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:37:07.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessObjects\\Student.cs",
+              "RelativeDocumentMoniker": "..\\DataNexus.BusinessObjects\\Student.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessObjects\\Student.cs",
+              "RelativeToolTip": "..\\DataNexus.BusinessObjects\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:37:05.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessObjects\\OrderItem.cs",
+              "RelativeDocumentMoniker": "..\\DataNexus.BusinessObjects\\OrderItem.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessObjects\\OrderItem.cs",
+              "RelativeToolTip": "..\\DataNexus.BusinessObjects\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:37:03.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessObjects\\Order.cs",
+              "RelativeDocumentMoniker": "..\\DataNexus.BusinessObjects\\Order.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessObjects\\Order.cs",
+              "RelativeToolTip": "..\\DataNexus.BusinessObjects\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:37:00.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessObjects\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\DataNexus.BusinessObjects\\Customer.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessObjects\\Customer.cs",
+              "RelativeToolTip": "..\\DataNexus.BusinessObjects\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:36:57.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessObjects\\Course.cs",
+              "RelativeDocumentMoniker": "..\\DataNexus.BusinessObjects\\Course.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessObjects\\Course.cs",
+              "RelativeToolTip": "..\\DataNexus.BusinessObjects\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:36:55.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.DataAccessLayer\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataNexus.DataAccessLayer\\CourseRepository.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.DataAccessLayer\\CourseRepository.cs",
+              "RelativeToolTip": "..\\DataNexus.DataAccessLayer\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:36:32.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.DataAccessLayer\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataNexus.DataAccessLayer\\OrderRepository.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.DataAccessLayer\\OrderRepository.cs",
+              "RelativeToolTip": "..\\DataNexus.DataAccessLayer\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:36:27.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.DataAccessLayer\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataNexus.DataAccessLayer\\StudentRepository.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.DataAccessLayer\\StudentRepository.cs",
+              "RelativeToolTip": "..\\DataNexus.DataAccessLayer\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:36:25.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessLogicLayer\\CourseService.cs",
+              "RelativeDocumentMoniker": "..\\DataNexus.BusinessLogicLayer\\CourseService.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessLogicLayer\\CourseService.cs",
+              "RelativeToolTip": "..\\DataNexus.BusinessLogicLayer\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:33:02.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.DataAccessLayer\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "..\\DataNexus.DataAccessLayer\\DatabaseHelper.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.DataAccessLayer\\DatabaseHelper.cs",
+              "RelativeToolTip": "..\\DataNexus.DataAccessLayer\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAADzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:18:31.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataNexus.DataAccessLayer",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.DataAccessLayer\\DataNexus.DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\DataNexus.DataAccessLayer\\DataNexus.DataAccessLayer.csproj",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.DataAccessLayer\\DataNexus.DataAccessLayer.csproj",
+              "RelativeToolTip": "..\\DataNexus.DataAccessLayer\\DataNexus.DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T10:18:08.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataNexus.BusinessLogicLayer",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessLogicLayer\\DataNexus.BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "..\\DataNexus.BusinessLogicLayer\\DataNexus.BusinessLogicLayer.csproj",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\DataNexus.BusinessLogicLayer\\DataNexus.BusinessLogicLayer.csproj",
+              "RelativeToolTip": "..\\DataNexus.BusinessLogicLayer\\DataNexus.BusinessLogicLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T10:18:08.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.DataAccessLayer\bin\Debug\net8.0\DataNexus.DataAccessLayer.deps.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.DataAccessLayer\bin\Debug\net8.0\DataNexus.DataAccessLayer.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.DataAccessLayer\bin\Debug\net8.0\DataNexus.DataAccessLayer.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.DataAccessLayer\bin\Debug\net8.0\DataNexus.BusinessObjects.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.DataAccessLayer\bin\Debug\net8.0\DataNexus.BusinessObjects.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.DataAccessLayer\obj\Debug\net8.0\DataNexus.DataAccessLayer.csproj.AssemblyReference.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.DataAccessLayer\obj\Debug\net8.0\DataNexus.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.DataAccessLayer\obj\Debug\net8.0\DataNexus.DataAccessLayer.AssemblyInfoInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.DataAccessLayer\obj\Debug\net8.0\DataNexus.DataAccessLayer.AssemblyInfo.cs
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.DataAccessLayer\obj\Debug\net8.0\DataNexus.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.DataAccessLayer\obj\Debug\net8.0\DataNexus.DataAccessLayer.sourcelink.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.DataAccessLayer\obj\Debug\net8.0\DataNexu.D7ACFD88.Up2Date
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.DataAccessLayer\obj\Debug\net8.0\DataNexus.DataAccessLayer.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.DataAccessLayer\obj\Debug\net8.0\refint\DataNexus.DataAccessLayer.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.DataAccessLayer\obj\Debug\net8.0\DataNexus.DataAccessLayer.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\DataNexus.DataAccessLayer\obj\Debug\net8.0\ref\DataNexus.DataAccessLayer.dll
