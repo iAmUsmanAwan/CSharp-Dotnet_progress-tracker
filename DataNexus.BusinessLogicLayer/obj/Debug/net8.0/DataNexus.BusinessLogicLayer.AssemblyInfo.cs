@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataNexus.BusinessLogicLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd732bbb06d8757bfabe9f9ffd1fd3ae4a43981e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff1c5a145f4abae59a2117f032cebd1872d10e65")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataNexus.BusinessLogicLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataNexus.BusinessLogicLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

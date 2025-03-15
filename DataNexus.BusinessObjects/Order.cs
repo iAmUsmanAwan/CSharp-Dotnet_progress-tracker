@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace DataNexus.BusinessObjects
 {
-    internal class Order
+    public class Order
     {
+        public int OrderID { get; set; }
+        public int CustomerID { get; set; }
+        public DateTime OrderDate { get; set; }
     }
 }

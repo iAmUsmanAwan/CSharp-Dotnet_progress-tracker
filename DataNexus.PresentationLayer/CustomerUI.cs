@@ -10,21 +10,22 @@ namespace DataNexus.PresentationLayer
 {
     public class CustomerUI
     {
-        private readonly CustomerService _customerService = new CustomerService();
+        //private readonly CustomerService _customerService = new CustomerService();
 
-        public void ShowCustomerMenu()
-        {
-            Console.WriteLine("Enter customer name:");
-            string name = Console.ReadLine();
+        //public void ShowCustomerMenu()
+        //{
+        //    Console.WriteLine("Enter customer name:");
+        //    string name = Console.ReadLine();
 
-            Console.WriteLine("Enter customer email:");
-            string email = Console.ReadLine();
+        //    Console.WriteLine("Enter customer email:");
+            
+        //    string email = Console.ReadLine();
 
-            Customer newCustomer = new Customer { Name = name, Email = email };
-            _customerService.AddCustomer(newCustomer);
+        //    Customer newCustomer = new Customer { Name = name, Email = email };
+        //    _customerService.AddCustomer(newCustomer);
 
-            Console.WriteLine("Customer added successfully!");
-        }
+        //    Console.WriteLine("Customer added successfully!");
+        //}
     }
 
 }

@@ -11,6 +11,9 @@ namespace DataNexus.BusinessObjects
         public int CustomerID { get; set; }
         public string Name { get; set; }
         public string Email { get; set; }
+
+        // Navigation Property
+        public CustomerAddress Address { get; set; }
     }
 
 }

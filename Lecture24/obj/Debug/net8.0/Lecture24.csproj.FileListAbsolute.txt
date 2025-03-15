@@ -1,0 +1,15 @@
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture24\bin\Debug\net8.0\Lecture24.exe
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture24\bin\Debug\net8.0\Lecture24.deps.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture24\bin\Debug\net8.0\Lecture24.runtimeconfig.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture24\bin\Debug\net8.0\Lecture24.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture24\bin\Debug\net8.0\Lecture24.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture24\obj\Debug\net8.0\Lecture24.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture24\obj\Debug\net8.0\Lecture24.AssemblyInfoInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture24\obj\Debug\net8.0\Lecture24.AssemblyInfo.cs
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture24\obj\Debug\net8.0\Lecture24.csproj.CoreCompileInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture24\obj\Debug\net8.0\Lecture24.sourcelink.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture24\obj\Debug\net8.0\Lecture24.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture24\obj\Debug\net8.0\refint\Lecture24.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture24\obj\Debug\net8.0\Lecture24.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture24\obj\Debug\net8.0\Lecture24.genruntimeconfig.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\Lecture24\obj\Debug\net8.0\ref\Lecture24.dll

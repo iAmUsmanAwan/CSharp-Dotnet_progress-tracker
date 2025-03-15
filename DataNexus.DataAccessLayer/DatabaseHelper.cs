@@ -10,12 +10,12 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace DataNexus.DataAccessLayer
 {
-    public class DatabaseHelper
+    public static class DatabaseHelper
     {
-        private readonly string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=DataNexusDB;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False";
+        private static readonly string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=DataNexusDB;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False";
 
 
-        public SqlConnection GetConnection()
+        public static SqlConnection GetConnection()
         {
             return new SqlConnection(connectionString);
         }
