@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "gWZRJS2oUggoTRTDqMt3mjfIziPUvInNx5UZ+Kb0xjM=",
+  "Source": "Lecture44",
+  "BasePath": "_content/Lecture44",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lecture44\\wwwroot",
+      "Source": "Lecture44",
+      "ContentRoot": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture44\\wwwroot\\",
+      "BasePath": "_content/Lecture44",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture44\\wwwroot\\index.html",
+      "SourceId": "Lecture44",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture44\\wwwroot\\",
+      "BasePath": "_content/Lecture44",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j6ibvwjlot",
+      "Integrity": "NWCT6WwGq+SG/kUhVx2vj9AEu2mQD1YyVX0mDKR568Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture44\\wwwroot\\script.js",
+      "SourceId": "Lecture44",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture44\\wwwroot\\",
+      "BasePath": "_content/Lecture44",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zcvz61orml",
+      "Integrity": "gzPyqhVqVVc8oiYgxAbIZWVQghsO7NiVyCJVMkul/x4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture44\\wwwroot\\styles.css",
+      "SourceId": "Lecture44",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture44\\wwwroot\\",
+      "BasePath": "_content/Lecture44",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xsmex4hn8d",
+      "Integrity": "D3TJKiC3H6rM3xFcksZWZn9s3O7s1DeVrMA/18Ma0Y8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture44\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NWCT6WwGq+SG/kUhVx2vj9AEu2mQD1YyVX0mDKR568Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 21:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NWCT6WwGq+SG/kUhVx2vj9AEu2mQD1YyVX0mDKR568Q="
+        }
+      ]
+    },
+    {
+      "Route": "index.j6ibvwjlot.html",
+      "AssetFile": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture44\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NWCT6WwGq+SG/kUhVx2vj9AEu2mQD1YyVX0mDKR568Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 21:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j6ibvwjlot"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NWCT6WwGq+SG/kUhVx2vj9AEu2mQD1YyVX0mDKR568Q="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture44\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gzPyqhVqVVc8oiYgxAbIZWVQghsO7NiVyCJVMkul/x4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 21:27:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gzPyqhVqVVc8oiYgxAbIZWVQghsO7NiVyCJVMkul/x4="
+        }
+      ]
+    },
+    {
+      "Route": "script.zcvz61orml.js",
+      "AssetFile": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture44\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gzPyqhVqVVc8oiYgxAbIZWVQghsO7NiVyCJVMkul/x4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 21:27:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zcvz61orml"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gzPyqhVqVVc8oiYgxAbIZWVQghsO7NiVyCJVMkul/x4="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture44\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D3TJKiC3H6rM3xFcksZWZn9s3O7s1DeVrMA/18Ma0Y8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 21:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D3TJKiC3H6rM3xFcksZWZn9s3O7s1DeVrMA/18Ma0Y8="
+        }
+      ]
+    },
+    {
+      "Route": "styles.xsmex4hn8d.css",
+      "AssetFile": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture44\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D3TJKiC3H6rM3xFcksZWZn9s3O7s1DeVrMA/18Ma0Y8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 21:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xsmex4hn8d"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D3TJKiC3H6rM3xFcksZWZn9s3O7s1DeVrMA/18Ma0Y8="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture44\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture44\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture44\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Lecture44.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Lecture44.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Lecture44.props",
+      "PackagePath": "build\\Lecture44.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Lecture44.props",
+      "PackagePath": "buildMultiTargeting\\Lecture44.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Lecture44.props",
+      "PackagePath": "buildTransitive\\Lecture44.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
