@@ -15,11 +15,12 @@ namespace Lecture48.Controllers
 
         public ViewResult Index()
         {
-            return View();
+            return View();   // if the action method and the view name is same then we dont need to pass the name of the view
         }
         public ViewResult Student() 
         {
-            return View();
+            string myData = "This is the Dummy Data";
+            return View("Student", myData);    // here we are sending this data to Student view
         }
     }
 }
