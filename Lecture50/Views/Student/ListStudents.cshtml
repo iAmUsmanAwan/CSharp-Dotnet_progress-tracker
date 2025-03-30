@@ -1,0 +1,29 @@
+﻿@model List< Lecture50.Models.Student>
+@{
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+	<h1>Welcome to the List of Students Page</h1>
+
+	<table border="1">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Age</th>
+				<th>CGPA</th>
+				<th>Semester</th>
+			</tr>
+		</thead>
+		@foreach (Lecture50.Models.Student student in Model)
+		{
+			<tbody>
+				<tr>
+					<td>		@student.Name		</td>
+					<td>		@student.Age		</td>
+					<td>		@student.CGPA		</td>
+					<td>		@student.Semester	</td>
+				</tr>
+			</tbody>
+		}
+	</table>
