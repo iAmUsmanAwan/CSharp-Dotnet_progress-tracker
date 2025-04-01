@@ -1,0 +1,47 @@
+﻿@using Lecture50.Models
+@model Student
+
+<html>
+<head>
+	<link href="~/css/site.css" rel="stylesheet" />
+</head>
+<body>
+	<h1>Welcome to the Student Form Page</h1>
+
+	<h3>Add a Student</h3>
+
+	<form method="post" action="/Student/StudentForm">
+
+		<div asp-validation-summary="ModelOnly"></div>    
+		@* to see all errors we use All instead of ModelOnly *@
+
+		<label asp-for="Name"></label><br>
+		<input asp-for="Name"><br>
+		<span asp-validation-for="Name"></span><br> <br>
+
+
+		<label asp-for="Age"></label><br>
+		<input asp-for="Age"><br>
+		<span asp-validation-for="Age"></span><br> <br>
+
+
+		<label asp-for="CGPA"></label><br>
+		<input asp-for="CGPA"><br>
+		<span asp-validation-for="CGPA"></span><br> <br>
+
+
+
+		<label asp-for="Semester"></label><br>
+		<input asp-for="Semester"><br>
+		<span asp-validation-for="Semester"></span><br> <br>
+
+
+
+		@* the html that will be created by the above code is with the help of taghelpers in asp.net core, that is server side code  *@
+
+		<input type="submit" value="Save Student">
+
+	</form>
+
+</body>
+</html>
