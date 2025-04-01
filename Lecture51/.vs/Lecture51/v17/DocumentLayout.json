@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture51\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{517318A2-87A2-4970-BBD9-1BA4DDDBBC8F}|Lecture51.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture51\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{517318A2-87A2-4970-BBD9-1BA4DDDBBC8F}|Lecture51.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{517318A2-87A2-4970-BBD9-1BA4DDDBBC8F}|Lecture51.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture51\\views\\student\\thankx.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{517318A2-87A2-4970-BBD9-1BA4DDDBBC8F}|Lecture51.csproj|solutionrelative:views\\student\\thankx.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{517318A2-87A2-4970-BBD9-1BA4DDDBBC8F}|Lecture51.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture51\\views\\student\\studentform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{517318A2-87A2-4970-BBD9-1BA4DDDBBC8F}|Lecture51.csproj|solutionrelative:views\\student\\studentform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{517318A2-87A2-4970-BBD9-1BA4DDDBBC8F}|Lecture51.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture51\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{517318A2-87A2-4970-BBD9-1BA4DDDBBC8F}|Lecture51.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{517318A2-87A2-4970-BBD9-1BA4DDDBBC8F}|Lecture51.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture51\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{517318A2-87A2-4970-BBD9-1BA4DDDBBC8F}|Lecture51.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517318A2-87A2-4970-BBD9-1BA4DDDBBC8F}|Lecture51.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture51\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517318A2-87A2-4970-BBD9-1BA4DDDBBC8F}|Lecture51.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture51\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture51\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-01T13:03:26.59Z",
+              "Title": "Thankx.cshtml",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture51\\Views\\Student\\Thankx.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Thankx.cshtml",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture51\\Views\\Student\\Thankx.cshtml",
+              "RelativeToolTip": "Views\\Student\\Thankx.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T17:38:23.555Z",
               "EditorCaption": ""
             },
             {
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentController.cs",
               "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture51\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
@@ -64,12 +64,11 @@
               "RelativeToolTip": "Controllers\\StudentController.cs",
               "ViewState": "AgIAAAcAAACgy8zMzMw7wBsAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T11:38:06.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T11:38:06.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture51\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
