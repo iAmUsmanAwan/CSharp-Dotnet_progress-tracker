@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lecture54_Middleware")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+305e1dac0213d585e7e1c90d2b301963bc62a219")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fd4d002bedd837532fc38c45aa5991d0858c3e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lecture54_Middleware")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lecture54_Middleware")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
