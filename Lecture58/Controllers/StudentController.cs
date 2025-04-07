@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Lecture58.Controllers
 {
+    // we have made an api controller
+
     [Route("api/[controller]")]
     [ApiController]
     public class StudentController : ControllerBase
@@ -14,7 +16,8 @@ namespace Lecture58.Controllers
             repo = new StudentRepository();
         }
 
-        [HttpGet]
+        [HttpGet("")] // Matches base route
+        [HttpGet("get")] // Also matches get route
         public List<Student> Get()
         {
             return repo.GetAllStudents();
