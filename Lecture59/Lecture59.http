@@ -1,0 +1,6 @@
+@Lecture59_HostAddress = http://localhost:5095
+
+GET {{Lecture59_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
