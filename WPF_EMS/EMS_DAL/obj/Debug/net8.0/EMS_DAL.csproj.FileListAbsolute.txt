@@ -1,0 +1,15 @@
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_DAL\bin\Debug\net8.0\EMS_DAL.deps.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_DAL\bin\Debug\net8.0\EMS_DAL.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_DAL\bin\Debug\net8.0\EMS_DAL.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_DAL\bin\Debug\net8.0\EMS_BO.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_DAL\bin\Debug\net8.0\EMS_BO.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_DAL\obj\Debug\net8.0\EMS_DAL.csproj.AssemblyReference.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_DAL\obj\Debug\net8.0\EMS_DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_DAL\obj\Debug\net8.0\EMS_DAL.AssemblyInfoInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_DAL\obj\Debug\net8.0\EMS_DAL.AssemblyInfo.cs
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_DAL\obj\Debug\net8.0\EMS_DAL.csproj.CoreCompileInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_DAL\obj\Debug\net8.0\EMS_DAL.csproj.Up2Date
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_DAL\obj\Debug\net8.0\EMS_DAL.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_DAL\obj\Debug\net8.0\refint\EMS_DAL.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_DAL\obj\Debug\net8.0\EMS_DAL.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_DAL\obj\Debug\net8.0\ref\EMS_DAL.dll
