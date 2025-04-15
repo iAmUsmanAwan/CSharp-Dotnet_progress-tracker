@@ -1,42 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\",
+  "WorkspaceRootPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBEDF140-58CD-47AD-B71D-54EF66DBDD8B}|..\\EMS_DAL\\EMS_DAL.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\new folder\\ems_dal\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\new folder\\ems\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\wpf_ems\\ems\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\new folder\\ems\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\wpf_ems\\ems\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|solutionrelative:commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F636A361-72A2-435E-8F38-9235DE194B4C}|..\\EMS_BLL\\EMS_BLL.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\new folder\\ems_bll\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F636A361-72A2-435E-8F38-9235DE194B4C}|..\\EMS_BLL\\EMS_BLL.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\new folder\\ems_bll\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\new folder\\ems\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\new folder\\ems\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\wpf_ems\\ems\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\new folder\\ems\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\new folder\\ems\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\wpf_ems\\ems\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBEDF140-58CD-47AD-B71D-54EF66DBDD8B}|..\\EMS_DAL\\EMS_DAL.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\new folder\\ems_dal\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\wpf_ems\\ems\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\wpf_ems\\ems\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C33FCAC-57D2-475C-B308-1C7685EEC3A3}|EMS_View.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,28 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
-              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAADwv2YAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T10:31:11.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\App.xaml.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\App.xaml.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,11 +51,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAADwv2YAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:31:11.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "App.xaml",
-              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\App.xaml",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\App.xaml",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-15T10:33:04.395Z",
@@ -88,11 +76,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\Views\\MainWindow.xaml",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
-              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\Views\\MainWindow.xaml",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\Views\\MainWindow.xaml",
               "RelativeToolTip": "Views\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-15T10:32:14.881Z",
@@ -100,11 +88,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RelayCommand.cs",
-              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\Commands\\RelayCommand.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\Commands\\RelayCommand.cs",
               "RelativeDocumentMoniker": "Commands\\RelayCommand.cs",
-              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\Commands\\RelayCommand.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\Commands\\RelayCommand.cs",
               "RelativeToolTip": "Commands\\RelayCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,67 +101,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BLL\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "..\\EMS_BLL\\EmployeeService.cs",
-              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BLL\\EmployeeService.cs",
-              "RelativeToolTip": "..\\EMS_BLL\\EmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T10:28:40.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BLL\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "..\\EMS_BLL\\IEmployeeService.cs",
-              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BLL\\IEmployeeService.cs",
-              "RelativeToolTip": "..\\EMS_BLL\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T10:28:09.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\Views\\MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
-              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\Views\\MainWindow.xaml.cs",
               "RelativeToolTip": "Views\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T10:39:30.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_DAL\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "..\\EMS_DAL\\EmployeeRepository.cs",
-              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_DAL\\EmployeeRepository.cs",
-              "RelativeToolTip": "..\\EMS_DAL\\EmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T10:27:21.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_DAL\\IEmployeeRepository.cs",
-              "RelativeDocumentMoniker": "..\\EMS_DAL\\IEmployeeRepository.cs",
-              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_DAL\\IEmployeeRepository.cs",
-              "RelativeToolTip": "..\\EMS_DAL\\IEmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T10:26:35.714Z",
               "EditorCaption": ""
             }
           ]

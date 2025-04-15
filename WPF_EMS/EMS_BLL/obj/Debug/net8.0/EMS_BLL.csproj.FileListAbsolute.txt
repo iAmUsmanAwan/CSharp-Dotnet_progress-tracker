@@ -15,3 +15,21 @@ E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_BLL\obj\Debug\net8
 E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_BLL\obj\Debug\net8.0\refint\EMS_BLL.dll
 E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_BLL\obj\Debug\net8.0\EMS_BLL.pdb
 E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_BLL\obj\Debug\net8.0\ref\EMS_BLL.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\bin\Debug\net8.0\EMS_BLL.deps.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\bin\Debug\net8.0\EMS_BLL.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\bin\Debug\net8.0\EMS_BLL.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\bin\Debug\net8.0\EMS_BO.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\bin\Debug\net8.0\EMS_DAL.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\bin\Debug\net8.0\EMS_BO.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\bin\Debug\net8.0\EMS_DAL.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\obj\Debug\net8.0\EMS_BLL.csproj.AssemblyReference.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\obj\Debug\net8.0\EMS_BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\obj\Debug\net8.0\EMS_BLL.AssemblyInfoInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\obj\Debug\net8.0\EMS_BLL.AssemblyInfo.cs
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\obj\Debug\net8.0\EMS_BLL.csproj.CoreCompileInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\obj\Debug\net8.0\EMS_BLL.sourcelink.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\obj\Debug\net8.0\EMS_BLL.csproj.Up2Date
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\obj\Debug\net8.0\EMS_BLL.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\obj\Debug\net8.0\refint\EMS_BLL.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\obj\Debug\net8.0\EMS_BLL.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BLL\obj\Debug\net8.0\ref\EMS_BLL.dll

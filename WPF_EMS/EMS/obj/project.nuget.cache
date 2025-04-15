@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OmVp7NS09hM=",
+  "dgSpecHash": "lUZQBjX/HcA=",
   "success": true,
-  "projectFilePath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\EMS_View.csproj",
+  "projectFilePath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\EMS_View.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.4\\microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"

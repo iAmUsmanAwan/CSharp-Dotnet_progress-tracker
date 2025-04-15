@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\EMS_View.csproj": {}
+    "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\EMS_View.csproj": {}
   },
   "projects": {
-    "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\EMS_View.csproj": {
+    "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\EMS_View.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\EMS_View.csproj",
+        "projectUniqueName": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\EMS_View.csproj",
         "projectName": "EMS_View",
-        "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\EMS_View.csproj",
+        "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\EMS_View.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS\\obj\\",
+        "outputPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BLL\\EMS_BLL.csproj": {
-                "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BLL\\EMS_BLL.csproj"
+              "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_BLL\\EMS_BLL.csproj": {
+                "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_BLL\\EMS_BLL.csproj"
               },
-              "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BO\\EMS_BO.csproj": {
-                "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BO\\EMS_BO.csproj"
+              "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_BO\\EMS_BO.csproj": {
+                "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_BO\\EMS_BO.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BLL\\EMS_BLL.csproj": {
+    "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_BLL\\EMS_BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BLL\\EMS_BLL.csproj",
+        "projectUniqueName": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_BLL\\EMS_BLL.csproj",
         "projectName": "EMS_BLL",
-        "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BLL\\EMS_BLL.csproj",
+        "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_BLL\\EMS_BLL.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BLL\\obj\\",
+        "outputPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -115,11 +115,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BO\\EMS_BO.csproj": {
-                "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BO\\EMS_BO.csproj"
+              "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_BO\\EMS_BO.csproj": {
+                "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_BO\\EMS_BO.csproj"
               },
-              "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_DAL\\EMS_DAL.csproj": {
-                "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_DAL\\EMS_DAL.csproj"
+              "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_DAL\\EMS_DAL.csproj": {
+                "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_DAL\\EMS_DAL.csproj"
               }
             }
           }
@@ -159,14 +159,14 @@
         }
       }
     },
-    "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BO\\EMS_BO.csproj": {
+    "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_BO\\EMS_BO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BO\\EMS_BO.csproj",
+        "projectUniqueName": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_BO\\EMS_BO.csproj",
         "projectName": "EMS_BO",
-        "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BO\\EMS_BO.csproj",
+        "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_BO\\EMS_BO.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BO\\obj\\",
+        "outputPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_BO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -225,14 +225,14 @@
         }
       }
     },
-    "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_DAL\\EMS_DAL.csproj": {
+    "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_DAL\\EMS_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_DAL\\EMS_DAL.csproj",
+        "projectUniqueName": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_DAL\\EMS_DAL.csproj",
         "projectName": "EMS_DAL",
-        "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_DAL\\EMS_DAL.csproj",
+        "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_DAL\\EMS_DAL.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_DAL\\obj\\",
+        "outputPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -254,8 +254,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BO\\EMS_BO.csproj": {
-                "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\New folder\\EMS_BO\\EMS_BO.csproj"
+              "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_BO\\EMS_BO.csproj": {
+                "projectPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\WPF_EMS\\EMS_BO\\EMS_BO.csproj"
               }
             }
           }

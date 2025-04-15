@@ -9,3 +9,15 @@ E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_BO\obj\Debug\net8.
 E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_BO\obj\Debug\net8.0\refint\EMS_BO.dll
 E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_BO\obj\Debug\net8.0\EMS_BO.pdb
 E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\EMS_BO\obj\Debug\net8.0\ref\EMS_BO.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BO\bin\Debug\net8.0\EMS_BO.deps.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BO\bin\Debug\net8.0\EMS_BO.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BO\bin\Debug\net8.0\EMS_BO.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BO\obj\Debug\net8.0\EMS_BO.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BO\obj\Debug\net8.0\EMS_BO.AssemblyInfoInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BO\obj\Debug\net8.0\EMS_BO.AssemblyInfo.cs
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BO\obj\Debug\net8.0\EMS_BO.csproj.CoreCompileInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BO\obj\Debug\net8.0\EMS_BO.sourcelink.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BO\obj\Debug\net8.0\EMS_BO.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BO\obj\Debug\net8.0\refint\EMS_BO.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BO\obj\Debug\net8.0\EMS_BO.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\DotNet\WPF_EMS\EMS_BO\obj\Debug\net8.0\ref\EMS_BO.dll
