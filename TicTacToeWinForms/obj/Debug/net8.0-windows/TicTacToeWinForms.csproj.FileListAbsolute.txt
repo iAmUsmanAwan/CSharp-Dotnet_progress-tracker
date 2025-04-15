@@ -1,0 +1,16 @@
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\TicTacToeWinForms\bin\Debug\net8.0-windows\TicTacToeWinForms.exe
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\TicTacToeWinForms\bin\Debug\net8.0-windows\TicTacToeWinForms.deps.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\TicTacToeWinForms\bin\Debug\net8.0-windows\TicTacToeWinForms.runtimeconfig.json
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\TicTacToeWinForms\bin\Debug\net8.0-windows\TicTacToeWinForms.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\TicTacToeWinForms\bin\Debug\net8.0-windows\TicTacToeWinForms.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\TicTacToeWinForms\obj\Debug\net8.0-windows\TicTacToeWinForms.Form1.resources
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\TicTacToeWinForms\obj\Debug\net8.0-windows\TicTacToeWinForms.csproj.GenerateResource.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\TicTacToeWinForms\obj\Debug\net8.0-windows\TicTacToeWinForms.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\TicTacToeWinForms\obj\Debug\net8.0-windows\TicTacToeWinForms.AssemblyInfoInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\TicTacToeWinForms\obj\Debug\net8.0-windows\TicTacToeWinForms.AssemblyInfo.cs
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\TicTacToeWinForms\obj\Debug\net8.0-windows\TicTacToeWinForms.csproj.CoreCompileInputs.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\TicTacToeWinForms\obj\Debug\net8.0-windows\TicTacToeWinForms.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\TicTacToeWinForms\obj\Debug\net8.0-windows\refint\TicTacToeWinForms.dll
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\TicTacToeWinForms\obj\Debug\net8.0-windows\TicTacToeWinForms.pdb
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\TicTacToeWinForms\obj\Debug\net8.0-windows\TicTacToeWinForms.genruntimeconfig.cache
+E:\MY_STUFF\web_pages_practice\FullStackWebDev\New folder\TicTacToeWinForms\obj\Debug\net8.0-windows\ref\TicTacToeWinForms.dll
