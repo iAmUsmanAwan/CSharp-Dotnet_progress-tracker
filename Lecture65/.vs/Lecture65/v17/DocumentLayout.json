@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture65\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E20BE0F1-C185-4530-8A6A-060F219E11F7}|Lecture65.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture65\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20BE0F1-C185-4530-8A6A-060F219E11F7}|Lecture65.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20BE0F1-C185-4530-8A6A-060F219E11F7}|Lecture65.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture65\\sample_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E20BE0F1-C185-4530-8A6A-060F219E11F7}|Lecture65.csproj|solutionrelative:sample_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20BE0F1-C185-4530-8A6A-060F219E11F7}|Lecture65.csproj|e:\\my_stuff\\web_pages_practice\\fullstackwebdev\\dotnet\\lecture65\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20BE0F1-C185-4530-8A6A-060F219E11F7}|Lecture65.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture65\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture65\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:55:51.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture65\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture65\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:42:56.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sample_data.csv",
+              "DocumentMoniker": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture65\\sample_data.csv",
+              "RelativeDocumentMoniker": "sample_data.csv",
+              "ToolTip": "E:\\MY_STUFF\\web_pages_practice\\FullStackWebDev\\DotNet\\Lecture65\\sample_data.csv",
+              "RelativeToolTip": "sample_data.csv",
+              "ViewState": "AgIAAHsAAAAAADMzMzPrvxYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-17T13:16:26.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
