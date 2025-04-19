@@ -24,7 +24,7 @@ namespace Lecture2
             bool sad = false;
 
             int thisCannotBeNull = 10;
-            // thisCannotBeNull = null;  // Error: Cannot convert null to 'int' because it is a non-nullable value type
+            // thisCannotBeNull = null;  // Error: Cannot convert null to 'int' because it is a non-nullable value type   
             
             //! Nullable types:
             int? thisCanBeNull = null;  // if we want to assign null to a value type as a default, we can use nullable types
