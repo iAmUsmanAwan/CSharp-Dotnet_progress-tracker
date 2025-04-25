@@ -1,0 +1,6 @@
+@Lecture58_HostAddress = http://localhost:5123
+
+GET {{Lecture58_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

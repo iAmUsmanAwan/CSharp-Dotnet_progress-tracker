@@ -1,0 +1,78 @@
+﻿### **Understanding Delegates, Func, Action, and Multicast in .NET (20% effort → 80% understanding)**  
+
+### **1️⃣ Delegates (Function Pointers in C#)**
+- **Delegate is a type that holds a reference to a method**.
+- You can use it to **pass methods as parameters**.
+
+✅ **Example:**  
+```csharp
+public delegate void MyDelegate(string message);
+
+public static void PrintMessage(string msg)
+{
+    Console.WriteLine(msg);
+}
+
+public static void Main()
+{
+    MyDelegate del = PrintMessage;  // Assign method to delegate
+    del("Hello, Delegates!");  // Call method via delegate
+}
+```
+🔹 **Why?** → It allows **decoupling** (loosely connecting components).  
+
+---
+
+### **2️⃣ Func (Returns a Value)**
+- **Built-in delegate** that can store **methods which return a value**.
+- Last type parameter is the **return type**.
+
+✅ **Example:**  
+```csharp
+Func<int, int, int> add = (a, b) => a + b;
+Console.WriteLine(add(3, 5));  // Output: 8
+```
+🔹 **Why?** → Shorter syntax instead of creating a delegate manually.
+
+---
+
+### **3️⃣ Action (Returns Nothing)**
+- **Built-in delegate** that can store **methods which return `void`**.
+
+✅ **Example:**  
+```csharp
+Action<string> print = msg => Console.WriteLine(msg);
+print("Hello, Action!");  // Output: Hello, Action!
+```
+🔹 **Why?** → Use when **no return value** is needed.
+
+---
+
+### **4️⃣ Multicast Delegate (Multiple Methods in One Delegate)**
+- **A delegate that holds multiple methods**.
+
+✅ **Example:**  
+```csharp
+public static void FirstMethod() => Console.WriteLine("First");
+public static void SecondMethod() => Console.WriteLine("Second");
+
+public static void Main()
+{
+    Action multi = FirstMethod;
+    multi += SecondMethod;  // Adding another method
+    multi();  // Calls both methods in order
+}
+```
+🔹 **Why?** → Useful for **event handling** where multiple methods need to run.
+
+---
+
+### **📌 Summary (TL;DR)**
+| Feature  | Returns? | Accepts Parameters? | Multiple Methods? | Example |
+|----------|---------|----------------|----------------|---------|
+| **Delegate** | Custom | Yes | Yes | `public delegate void MyDelegate(string msg);` |
+| **Func<T, TResult>** | ✅ Yes | ✅ Yes | ❌ No | `Func<int, int, int> add = (a, b) => a + b;` |
+| **Action<T>** | ❌ No | ✅ Yes | ❌ No | `Action<string> print = msg => Console.WriteLine(msg);` |
+| **Multicast Delegate** | ❌ No | ✅ Yes | ✅ Yes | `multi += SecondMethod;` |
+
+🚀 **Now you understand 80% of how delegates work in .NET!**

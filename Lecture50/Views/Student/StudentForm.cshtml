@@ -1,0 +1,33 @@
+﻿@using Lecture50.Models
+@model Student
+
+<html>
+<head>
+</head>
+<body>
+	<h1>Welcome to the Student Form Page</h1>
+
+	<h3>Add a Student</h3>
+
+	<form method="post" action="/Student/StudentForm">
+		
+		<label asp-for="Name"></label><br>
+		<input asp-for="Name"><br>
+
+		<label asp-for="Age"></label><br>
+		<input asp-for="Age"><br>
+
+		<label asp-for="CGPA"></label><br>
+		<input asp-for="CGPA"><br>
+
+		<label asp-for="Semester"></label><br>
+		<input asp-for="Semester"><br>
+
+		@* the html that will be created by the above code is with the help of taghelpers in asp.net core, that is server side code  *@
+
+		<input type="submit" value="Save Student">
+
+	</form>
+
+</body>
+</html>

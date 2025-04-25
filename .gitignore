@@ -1,0 +1,16 @@
+# Ignore database files
+Lecture22/Data/*.mdf
+Lecture22/Data/*.ldf
+
+*.mdf
+*.ldf
+
+# Ignore Visual Studio generated files
+*.suo
+*.user
+*.cache
+*.vs/
+
+# Ignore compiled files
+bin/
+obj/

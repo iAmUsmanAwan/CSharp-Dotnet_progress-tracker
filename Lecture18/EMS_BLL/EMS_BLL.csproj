@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EMS_BO\EMS_BO.csproj" />
+    <ProjectReference Include="..\EMS_DAL\EMS_DAL.csproj" />
+  </ItemGroup>
+
+</Project>

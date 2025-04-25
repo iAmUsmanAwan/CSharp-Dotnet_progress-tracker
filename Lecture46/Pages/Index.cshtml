@@ -1,0 +1,15 @@
+﻿@page
+
+@functions {
+    public string DayName { get; set; } = string.Empty;
+    public string CurrentTime { get; set; } = string.Empty;
+
+    public void OnGet()
+    {
+        Model.DayName = System.DateTime.Now.ToString("dddd");
+        Model.CurrentTime = System.DateTime.Now.ToString();
+    }
+
+}
+
+    <h3> Current day is @Model.DayName and cuurrent time is @Model.CurrentTime </h3>

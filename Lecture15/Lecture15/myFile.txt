@@ -1,0 +1,3 @@
+this is my string which I stored on file
+after altering and adding new line
+and another line

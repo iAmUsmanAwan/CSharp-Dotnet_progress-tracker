@@ -1,0 +1,43 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #f4f4f4;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    font-size: 2em;
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px 15px;
+    font-size: 1em;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#increase {
+    background: green;
+    color: white;
+}
+
+#decrease {
+    background: red;
+    color: white;
+}
