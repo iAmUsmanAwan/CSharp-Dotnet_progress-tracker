@@ -20,5 +20,11 @@ namespace Lecture27
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Button clicked!");
+            MessageBox.Show(textUserName.Text);
+        }
     }
 }
