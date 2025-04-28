@@ -13,7 +13,7 @@
         </Grid.ColumnDefinitions>
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Grid.Column="1" Margin="71,0,0,0">
             <Label HorizontalContentAlignment="Center" Content="User Name" Background="#FFCDA0A0" Width="150" Height="50" Margin="0,0,20,0" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" FontStretch="SemiExpanded"></Label>
-            <TextBox Name="textUserName" Background="Aqua" Width="250" Height="50" Margin="0,0,20,0"></TextBox>
+            <TextBox Name="textUserName" Background="AntiqueWhite" Width="250" Height="50" Margin="0,0,20,0"></TextBox>
             <Button Content="Save" Width="100" Height="50" FontSize="20" FontWeight="Bold" Click="Button_Click"></Button>
 
         </StackPanel>
