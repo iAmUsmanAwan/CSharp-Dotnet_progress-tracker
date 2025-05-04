@@ -1,0 +1,25 @@
+﻿<Window x:Class="Lecture32.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Lecture32"
+        Title="MainWindow" Height="300" Width="500">
+
+    <Window.Resources>
+        <local:CheckStateToBooleanConverter x:Key="CheckStateConverter" />
+        <local:UncheckStateToBooleanConverter x:Key="UncheckStateConverter" />
+    </Window.Resources>
+
+    <StackPanel Margin="10">
+        <TextBox FontSize="20" Name="txt1" Margin="0,0,0,10"/>
+
+        <CheckBox Content="Checked"
+                  IsChecked="{Binding ElementName=txt1, Path=Text, 
+                                      Converter={StaticResource CheckStateConverter}, 
+                                      Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+        <CheckBox Content="Unchecked"
+                  IsChecked="{Binding ElementName=txt1, Path=Text, 
+                                      Converter={StaticResource UncheckStateConverter}, 
+                                      Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+    </StackPanel>
+</Window>
