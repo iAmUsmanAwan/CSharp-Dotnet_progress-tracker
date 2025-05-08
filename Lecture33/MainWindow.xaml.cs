@@ -20,5 +20,13 @@ namespace Lecture33
         {
             InitializeComponent();
         }
+
+        private void btnSave_Click(object sender, RoutedEventArgs e)
+        {
+            string firstName = txtFirstName.Text.Trim();
+            string lastName = txtLastName.Text.Trim();
+            string fullName = $"{firstName} {lastName}";
+            MessageBox.Show($"Full Name: {fullName}", "Info", MessageBoxButton.OK, MessageBoxImage.Information);
+        }
     }
 }

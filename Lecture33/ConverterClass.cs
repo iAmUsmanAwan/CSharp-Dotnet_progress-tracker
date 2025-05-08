@@ -7,12 +7,12 @@ using System.Windows.Data;
 
 namespace Lecture33
 {
-    class CoverterClass : IMultiValueConverter
+    public class ConverterClass : IMultiValueConverter
     {
         public object Convert(object[] values, Type targetType, object parameter, CultureInfo culture)
         {
-            string val1 = values[0].ToString();
-            string val2 = values[1].ToString();
+            string? val1 = values[0].ToString();
+            string? val2 = values[1].ToString();
 
             if (values.Count() >= 2)
             {

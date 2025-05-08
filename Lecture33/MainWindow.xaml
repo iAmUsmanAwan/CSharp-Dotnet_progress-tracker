@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     
     <Window.Resources>
-        <local:CoverterClass x:Key="myConverter"></local:CoverterClass>
+        <local:ConverterClass x:Key="myConverter" />
     </Window.Resources>
     
     <Grid  ShowGridLines="False" HorizontalAlignment="Center"  VerticalAlignment="Center">
@@ -21,6 +21,7 @@
             <RowDefinition Height="auto"></RowDefinition>
             <RowDefinition Height="auto"></RowDefinition>
             <RowDefinition Height="auto" ></RowDefinition>
+            <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         
         <Label HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="0" Content="First Name" Background="#FFF09898" FontSize="18" Margin="0,0,5,5"></Label>
@@ -28,15 +29,14 @@
         <TextBox Name="txtFirstName" Grid.Row="0" Grid.Column="1" Background="#FF50EFFF" Margin="0,0,0,5" ></TextBox>
         <TextBox Name="txtLastName" Grid.Row="1" Grid.Column="1" Background="#FF50EFFF" Margin="0,0,0,5" ></TextBox>
 
-        <Button Name="btnSave" Grid.ColumnSpan="2" Grid.Column="0" Grid.Row="2" Content="Save" Width="50" >
+        <Button Name="btnSave" Grid.ColumnSpan="2" Grid.Column="0" Grid.Row="2" Content="Save" Width="80" Click="btnSave_Click" Height="25">
             <Button.IsEnabled>
                 <MultiBinding Converter="{StaticResource myConverter}">
-                    <Binding ElementName="txtFirstName" Path="Text"></Binding>
-                    <Binding ElementName="txtLastName" Path="Text"></Binding>
+                    <Binding ElementName="txtFirstName" Path="Text"/>
+                    <Binding ElementName="txtLastName" Path="Text"/>
                 </MultiBinding>
-
             </Button.IsEnabled>
-
         </Button>
+
     </Grid>
 </Window>
