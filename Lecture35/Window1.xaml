@@ -1,0 +1,24 @@
+﻿<Window x:Class="Lecture35.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lecture35"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <StackPanel>
+        <WrapPanel>
+            <TextBlock Text=" Windows Title:" FontSize="50"/>
+            <TextBlock Text="{Binding Title, UpdateSourceTrigger=PropertyChanged}" FontSize="50" MinWidth="200" Margin="25,0,0,0"/>
+        </WrapPanel>
+
+        <WrapPanel>
+            <TextBlock Text=" Windows Dimensions:" FontSize="50"/>
+            <TextBox FontSize="50" Text="{Binding Width}" Width="150"></TextBox>
+            
+            <TextBlock Text=" X:" FontSize="50" MinWidth="200" Margin="25,0,0,0"/>
+            <TextBox FontSize="50" Text="{Binding Height}" Width="150"></TextBox>
+        </WrapPanel>
+
+    </StackPanel>
+</Window>
