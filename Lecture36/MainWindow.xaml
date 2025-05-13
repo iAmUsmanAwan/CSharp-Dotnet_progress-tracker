@@ -1,0 +1,26 @@
+﻿<Window x:Class="Lecture36.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lecture36"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <!-- Through Events -->
+<!--    <StackPanel >
+        <TextBox Name="txtMessage"  FontSize="50"   ></TextBox>
+        <Button Click="Button_Click" FontSize="50" Content="Show Message" ></Button>
+    </StackPanel>
+-->
+
+
+
+    <StackPanel >
+        <TextBox Text="{Binding MessageText, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}"  FontSize="50"   ></TextBox>
+        <Button Command="{Binding cmd}" FontSize="50" Content="Show Message" Background="#FFC5ACAC"  ></Button>
+    </StackPanel>
+    
+    
+
+</Window>
