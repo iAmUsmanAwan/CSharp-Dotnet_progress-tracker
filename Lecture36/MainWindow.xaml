@@ -15,7 +15,7 @@
 -->
 
 
-
+    <!-- Through ICommand without parameter -->
     <StackPanel >
         <TextBox Text="{Binding MessageText, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}"  FontSize="50"   ></TextBox>
         <Button Command="{Binding cmd}" FontSize="50" Content="Show Message" Background="#FFC5ACAC"  ></Button>

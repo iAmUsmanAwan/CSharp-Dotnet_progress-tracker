@@ -11,6 +11,7 @@ namespace Lecture36
     class MessageCommand : ICommand
     {
         public event EventHandler CanExecuteChanged;
+
         private MessageViewModel messagevm;
 
         public MessageCommand(MessageViewModel vm)
