@@ -10,6 +10,8 @@ namespace Lecture38
 
     class ConsoleMessageCommand : ICommand
     {
+        /// All of this logic is same as MessageCommand except the below mentioned
+
         public event EventHandler CanExecuteChanged
         {
             add { CommandManager.RequerySuggested += value; }
@@ -18,7 +20,7 @@ namespace Lecture38
 
         private MessageViewModel messagevm;
 
-        public ConsoleMessageCommand(MessageViewModel vm)
+        public ConsoleMessageCommand(MessageViewModel vm)     // here the constructor name is changed
         {
             this.messagevm = vm;
         }
@@ -29,7 +31,7 @@ namespace Lecture38
         }
         public void Execute(object? parameter)
         {
-            messagevm.DisplayMessageOnConsole(parameter as string);
+            messagevm.DisplayMessageOnConsole(parameter as string);    // here the method name is changed in comparison to MessageCommand
         }
     }
 }
