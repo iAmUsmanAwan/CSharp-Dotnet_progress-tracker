@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Lecture39.ViewModels;
 
 namespace Lecture39
 {
@@ -19,6 +20,7 @@ namespace Lecture39
         public MainWindow()
         {
             InitializeComponent();
+            this.DataContext = new StudentViewModel();
         }
     }
 }

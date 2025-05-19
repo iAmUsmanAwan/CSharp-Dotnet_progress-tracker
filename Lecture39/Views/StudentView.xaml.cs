@@ -15,12 +15,9 @@ using System.Windows.Shapes;
 
 namespace Lecture39.Views
 {
-    /// <summary>
-    /// Interaction logic for UserControl1.xaml
-    /// </summary>
-    public partial class UserControl1 : UserControl
+    public partial class StudentView : UserControl
     {
-        public UserControl1()
+        public StudentView()
         {
             InitializeComponent();
         }
