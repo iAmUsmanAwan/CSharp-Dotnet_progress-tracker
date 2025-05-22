@@ -1,10 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-
+using System.Collections.ObjectModel;
 namespace Lecture40.Models
 {
     class StudentService
@@ -13,26 +10,55 @@ namespace Lecture40.Models
 
         public StudentService()
         {
-            studentList = new ObservableCollection<Student>();
-            studentList.Add(new Student() { Id = 1, Name = "Muhammad", Age = 40 });
-            studentList.Add(new Student() { Id = 2, Name = "Ali", Age = 13 });
-            studentList.Add(new Student() { Id = 3, Name = "Hussain", Age = 10 });
+            studentList = new ObservableCollection<Student>() {
+            new Student { ID=1, Name="Ibrahim", Age=2},
+            new Student { ID=2, Name="Alishba", Age=4},
+            new Student { ID=3, Name="Saeed", Age=8}
+            };
         }
-
         public void AddStudent(Student s)
         {
             studentList.Add(s);
         }
 
-        public void RemoveStudent(Student s) 
+        public void Remove(Student s)
         {
             studentList.Remove(s);
         }
 
+        public Student GetStudentById(int Id)
+        {
+            Student s = null;
+            for (int i = 0; i < studentList.Count; i++)
+            {
+                if (studentList[i].ID == Id)
+                {
+                    s = studentList[i];
+                    break;
+
+                }
+            }
+            return s;
+
+
+        }
+
+        public void Update(Student s)
+        {
+            for (int i = 0; i < studentList.Count; i++)
+            {
+                if (studentList[i].ID == s.ID)
+                {
+                    studentList[i].Name = s.Name;
+                    studentList[i].Age = s.Age;
+                    break;
+                }
+            }
+
+        }
         public ObservableCollection<Student> GetAllStudents()
         {
             return studentList;
         }
-
     }
 }

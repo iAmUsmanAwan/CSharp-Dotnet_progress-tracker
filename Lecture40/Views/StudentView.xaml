@@ -7,47 +7,54 @@
              xmlns:vm="clr-namespace:Lecture40.ViewModels"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
-    <UserControl.DataContext>
-        <vm:StudentViewModel/>
-    </UserControl.DataContext>
-    
     <Grid ShowGridLines="False" Background="White">
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="auto"/>
-            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
-
         <Grid.RowDefinitions>
-            <RowDefinition Height="auto"/>
-            <RowDefinition Height="auto"/>
-            <RowDefinition Height="auto"/>
-            <RowDefinition Height="auto"/>
-            <RowDefinition Height="auto"/>
-            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
         </Grid.RowDefinitions>
-
-        <TextBlock FontSize="50" Grid.Row="0" Grid.Column="0" Text="Student Management System" Grid.ColumnSpan="2" HorizontalAlignment="Center"/>
-
-        <TextBlock Text="Id" Grid.Column="0" Grid.Row="1" FontSize="30" />
-        <TextBlock Text="Name" Grid.Column="0" Grid.Row="2" FontSize="30" />
-        <TextBlock Text="Age" Grid.Column="0" Grid.Row="3" FontSize="30" />
-
+        <TextBlock FontSize="50"
+                   Grid.Row="0" 
+                   Grid.Column="0"
+                   Text="Student Management System"
+                   Grid.ColumnSpan="2"
+                   HorizontalAlignment="Center"
+                   ></TextBlock>
+        <TextBlock Text="ID" Grid.Row="1" Grid.Column="0" FontSize="30"></TextBlock>
+        <TextBlock Text="Name" Grid.Row="2" Grid.Column="0" FontSize="30"></TextBlock>
+        <TextBlock Text="Age" Grid.Row="3" Grid.Column="0" FontSize="30"></TextBlock>
         <TextBox Text="{Binding ID}" Grid.Row="1" Grid.Column="1" FontSize="20"></TextBox>
         <TextBox Text="{Binding Name}" Grid.Row="2" Grid.Column="1" FontSize="20"></TextBox>
+
         <TextBox Text="{Binding Age}" Grid.Row="3" Grid.Column="1" FontSize="20"></TextBox>
-
-        <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Grid.Column="1" Grid.Row="4" >
-
-            <Button Command="{Binding AddCommand}" Content="Add" FontSize="20" Width="101" Margin="20,0,20,0"/>
-            <Button Command="{Binding RemoveCommand}" Content="Remove" FontSize="20" Margin="20,0,20,0" Width="110"/>
-
+        <StackPanel  HorizontalAlignment="Center" Grid.Column="1" Grid.Row="4" Orientation="Horizontal">
+            <Button Margin="20,0,20,0" Command="{Binding AddCommand}" Content="Add" FontSize="20"
+               
+                ></Button>
+            <Button Margin="20,0,20,0" Command="{Binding RemoveCommand}" Content="Remove" FontSize="20"
+               
+                ></Button>
+            <Button Margin="20,0,20,0" Command="{Binding SearchCommand}" Content="Search By ID" FontSize="20"
+               
+                ></Button>
+            <Button Margin="20,0,20,0" Command="{Binding UpdateCommand}" Content="Update" FontSize="20"
+               
+                ></Button>
         </StackPanel>
 
         <ListBox FontSize="20" FontWeight="Bold"
-            ItemsSource="{Binding Students}" DisplayMemberPath="Name"
-                 SelectedItem="{Binding SelectedStudent}"
+            ItemsSource="{Binding Students}"
+            SelectedItem="{Binding SelectedStudent}"
+                 
+                 DisplayMemberPath="Name"
             Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2"></ListBox>
-
 
     </Grid>
 </UserControl>
