@@ -40,6 +40,7 @@ namespace Lecture40.ViewModels
             studentService = new StudentService();
 
             Students = studentService.GetAllStudents();
+
             AddCommand = new DelegateCommand(Add, canAdd);
             RemoveCommand = new DelegateCommand(Remove, canRemove);
             SearchCommand = new DelegateCommand(Search, canSearch);
