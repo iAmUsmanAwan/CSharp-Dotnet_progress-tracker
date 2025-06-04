@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace EMS_BO
-{   //  in this layer we will define the business object
+{   //  in this layer we will define the business object (the structure of the database object)
     public class EmployeeBO
     {
         public string Name { get; set; }
