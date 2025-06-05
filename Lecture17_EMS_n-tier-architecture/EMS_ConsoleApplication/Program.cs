@@ -8,11 +8,11 @@ namespace EMS_ConsoleApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("--Welcome to Employee Management System!--");
+            Console.WriteLine("-- Welcome to Employee Management System! --");
 
             // User Input for Employee Name
             Console.Write("Enter Employee Name: ");
-            string name = Console.ReadLine();
+            string ?name = Console.ReadLine();
 
             // User Input for Employee Age with Validation
             int age;

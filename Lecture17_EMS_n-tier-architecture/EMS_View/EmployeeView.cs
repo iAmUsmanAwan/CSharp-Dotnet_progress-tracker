@@ -9,11 +9,11 @@ using EMS_BO;
 namespace EMS_View
 {
     public class EmployeeView
-    {    // we will define how to get input from the user in this layer
+    {    // we will define how to get input from the user in this layer this is directly called from the console application
         public void GetInput()
         {
             Console.WriteLine("Enter Employee Name: ");
-            string empName = Console.ReadLine();
+            string ?empName = Console.ReadLine();
             Console.WriteLine("Enter Employee Age: ");
             int age = System.Convert.ToInt32( Console.ReadLine());
             
