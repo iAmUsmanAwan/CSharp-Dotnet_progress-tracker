@@ -1,4 +1,4 @@
-﻿namespace Dependency_Injection
+﻿namespace ConstructorInjection
 {
     //// //Tight Coupling Example
     //class CurrentAccount
