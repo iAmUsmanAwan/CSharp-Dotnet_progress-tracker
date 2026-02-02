@@ -2,98 +2,99 @@
 
 namespace C_Injection_MultiThreading
 {
-    // Interface that defines a contract for Account types
-    // Any class implementing IAccount MUST provide PrintDetails()
     public interface IAccount
     {
-        void PrintDetails();
+        Task PrintDetailsAsync();
     }
 
-    // Concrete implementation of IAccount
-    class CurrentAccount : IAccount
-    {
-        public void PrintDetails()
-        {
-            Console.WriteLine("This is a Current Account.");
-        }
-    }
-
-    // Another concrete implementation of IAccount
     class SavingAccount : IAccount
     {
-        public void PrintDetails()
+        public async Task PrintDetailsAsync()
         {
+            await Task.Delay(50); // simulate DB / IO work
             Console.WriteLine("This is a Saving Account.");
         }
     }
 
-    // Account class depends on IAccount (NOT a concrete class)
-    // This is Dependency Injection via constructor
+    // Account class depends on IAccount (not a concrete class)
+    // This is Constructor Dependency Injection
     class Account
     {
-        // Interface reference → allows polymorphism
-        private IAccount account;
+        // Readonly reference ensures the dependency
+        // cannot be changed after object creation
+        private readonly IAccount account;
 
-        // Constructor Injection
-        // At runtime, any class implementing IAccount can be passed
+        // Dependency is injected at runtime
         public Account(IAccount account)
         {
             this.account = account;
         }
 
-        // calls the injector's PrintDetails method
-        public void PrintAccountDetails()
+        // Async method that delegates work to the injected dependency
+        public async Task PrintAccountDetailsAsync()
         {
-            account.PrintDetails();
+            // Await ensures proper async flow (no thread blocking)
+            await account.PrintDetailsAsync();
+
             Console.WriteLine("Account Details Printed");
         }
     }
 
-    // Another class using the SAME IAccount object
-    // Demonstrates multithreading + synchronization
     class UmerAccount
     {
-        private IAccount account;
-        object Lock;
+        private readonly IAccount account;
 
-        // Constructor Injection again
+        // SemaphoreSlim is used instead of 'lock' because it works safely with async/await
+        // Allows only ONE thread to enter at a time
+        private static readonly SemaphoreSlim _semaphore = new SemaphoreSlim(1, 1);
+
+        // Dependency Injection again
         public UmerAccount(IAccount account)
         {
             this.account = account;
         }
-        public void PrintAccountDetails()
+
+        // Async method with thread-safe access
+        public async Task PrintAccountDetailsAsync()
         {
-            // Runs the code on a separate thread
-            Task.Run( () => {
-                            // lock ensures that only ONE thread
-                            // can access this account object at a time
-                    lock (account)
-                                    {
-                                        account.PrintDetails();
-                                        Task.Delay(100);  // Simulates some delay / long-running work
-                    Console.WriteLine("Umer Account Details Printed");
-                                    }
-                                }
-                    ).GetAwaiter();   // Starts execution (but not awaited properly)
+            // WaitAsync does NOT block the thread
+            // It asynchronously waits for the lock
+            await _semaphore.WaitAsync();         // async-safe lock
+            try
+            {
+                await account.PrintDetailsAsync();
+
+                // Simulate additional processing
+                await Task.Delay(100);
+                
+                Console.WriteLine("Umer Account Details Printed");
+            }
+            finally
+            {
+                // Always release the semaphore even if an exception occurs
+                _semaphore.Release();
+            }
         }
     }
 
-    public class Program
+    class Program
     {
-        static void Main(string[] args)
+        // Async Main allows awaiting tasks directly
+        static async Task Main(string[] args)
         {
-            // Create ONE SavingAccount object
+            // Create ONE shared SavingAccount instance
             IAccount sa = new SavingAccount();
 
-            // Inject the SAME SavingAccount into multiple classes
-            Account account2 = new Account(sa);
-            
-            UmerAccount account3 = new UmerAccount(sa);
+            // Inject the same dependency into multiple consumers
+            Account account1 = new Account(sa);
+            UmerAccount account2 = new UmerAccount(sa);
 
-            // Run both methods on separate threads
-            Task.Run(() => account2.PrintAccountDetails());
-
-            Task.Run(() => account3.PrintAccountDetails());
+            // Run both async methods concurrently
+            // Task.WhenAll waits until BOTH complete
+            await Task.WhenAll(
+                account1.PrintAccountDetailsAsync(),
+                account2.PrintAccountDetailsAsync()
+            );
 
             Console.ReadLine();
         }
